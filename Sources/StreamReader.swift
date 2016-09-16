@@ -1,3 +1,8 @@
+/**
+ *  Attribution: 
+ *  http://stackoverflow.com/questions/24581517/read-a-file-url-line-by-line-in-swift
+ */
+
 import Foundation
 
 class StreamReader  {

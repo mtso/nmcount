@@ -10,7 +10,8 @@ enum Rarity: String {
     case common        = "common"
     case uncommon      = "uncommon"
     case rare          = "rare"
-    case veryRare      = "very-rare"
-    case extremelyRare = "extremely-rare"
+    case veryRare      = "veryRare"
+    case extremelyRare = "extremelyRare"
     case chase         = "chase"
+    case variant       = "variant"
 }
